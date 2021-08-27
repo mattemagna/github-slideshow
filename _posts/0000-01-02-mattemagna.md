@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Non si può nè scendere nè salire"
 ---
-i don't know Rick, it seem fake
-Use the left arrow to go back!
+Nè scendere nè salire
