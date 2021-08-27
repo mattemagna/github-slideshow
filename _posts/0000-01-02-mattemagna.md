@@ -1,5 +1,5 @@
 ---
 layout: slide
-title: "Non si può ne scendere ne salire"
+title: "Non si può nè scendere nè salire"
 ---
-Ne scendere ne salire
+Nè scendere nè salire
